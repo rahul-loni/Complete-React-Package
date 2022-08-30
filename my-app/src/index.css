@@ -1,3 +1,14 @@
+@import url('https://www.googleapis.com/webfonts/v1/webfonts?key=YOUR-API-KEY');
+
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Times New Roman', Times, serif;
+
+}
 body{
-    background-color: azure;
+    margin: 0;
+    background-color: #3f3f3f;
+    padding: 100px;
 }
