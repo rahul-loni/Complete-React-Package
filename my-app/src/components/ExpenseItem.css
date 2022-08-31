@@ -23,7 +23,7 @@ color: #312d2d;
 font-size: 2rem;
 flex: 1;
 margin: 0 1rem;
-color: red;
+color: rgb(0, 0, 0);
 }
 .expense-date{
     color: white;
